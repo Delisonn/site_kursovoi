@@ -99,7 +99,7 @@ $result = mysqli_query($connection, $query) or die(mysql_error());
     </div>
 </nav>
 <div class="container">
-    <div class="text-block"><h1>Казанцев ТБ</h1></div>
+    <div class="text-block"><h1>Главная</h1></div>
     <div class="container">
 
 
